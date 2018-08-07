@@ -1,7 +1,7 @@
 gapminder
 =========
 
-## Project Summary
+#### Project Summary
 
 This project analyzes population-level statistics about many countries to
 determine if there is a relationship between x and y.
